@@ -94,7 +94,7 @@ function App() {
         <h2>About Me</h2>
         <div className="about-content">
           <div className="owner-portrait-container">
-            <img src="/portrait-placeholder.jpg" alt="Business Owner" className="owner-portrait" />
+            <img src="/mom.png" alt="Thelma Molina" className="owner-portrait" />
             <div className="owner-name">Thelma Molina</div>
           </div>
           <p>This small, locally owned cleaning business has proudly served Long Island's 
