@@ -68,23 +68,23 @@ function App() {
       {/* Services Section */}
       <section id="services" className="services">
         <h2>My Services</h2>
-        <h3 className="services-subheading">What I Do</h3>
+        <h3 className="services-subheading">What I Do:</h3>
         <div className="services-grid large-services-grid">
           <div className="service-card large-service-card">
             <h3>Residential Cleaning</h3>
             <p>Thorough cleaning for homes, apartments, and condos, ensuring every space is spotless and welcoming.</p>
           </div>
           <div className="service-card large-service-card">
-            <h3>Commercial Cleaning</h3>
-            <p>Professional cleaning for offices, retail spaces, and businesses to maintain a clean and productive environment.</p>
+            <h3>Business Cleaning</h3>
+            <p>Professional cleaning for offices and businesses to maintain a clean and productive environment.</p>
           </div>
           <div className="service-card large-service-card">
             <h3>Move-In/Move-Out Cleaning</h3>
             <p>Deep cleaning services to prepare properties for new tenants or to leave your old space sparkling clean.</p>
           </div>
           <div className="service-card large-service-card">
-            <h3>Specialty & Custom Cleaning</h3>
-            <p>Tailored cleaning solutions for unique needs, including post-construction, seasonal, or event cleanups.</p>
+            <h3>Other Cleaning</h3>
+            <p>Customer requests are welcome!</p>
           </div>
         </div>
       </section>
